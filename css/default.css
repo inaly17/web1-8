@@ -31,7 +31,7 @@ background-color:mediumaquamarine;
 #gnav div.img{
   display: table-cell;
   vertical-align: middle;
-  background: url(../img/css_sprite.png) no-repeat;
+  background: url(../img/images.jpg) no-repeat;
   width: 55px;
   height: 46px;
 }
